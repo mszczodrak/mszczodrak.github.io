@@ -11,8 +11,8 @@
 
 <SCRIPT LANGUAGE="JavaScript">
 <!-- Begin
-if (location.href.indexOf("www.cs.columbia.edu/~msz") == -1){
-  window.setTimeout('window.location="http://www.cs.columbia.edu/~msz"; ',0);
+if (location.href.indexOf("mszczodrak.github.io") == -1){
+  window.setTimeout('window.location="mszczodrak.github.io"; ',0);
 }
 // End -->
 </SCRIPT>
